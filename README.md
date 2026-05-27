@@ -164,4 +164,8 @@ Commercial use is not permitted. This project exists solely to promote the Gospe
 
 ---
 
-*"[5] Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD: [6] And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse." — Malachi 4:5-6 KJV*
+*"Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD: [6] And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse." — Malachi 4:5-6 KJV*
+
+*"Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded; [29] But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed them all. [30] Even thus shall it be in the day when the Son of man is revealed." — Luke 17:28-30 KJV*
+
+*"But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he hath declared to his servants the prophets." — Revelation 10:7 KJV*
