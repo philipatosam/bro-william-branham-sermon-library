@@ -18,7 +18,7 @@ A freely available, machine-readable JSON library of **1,206 sermons** by Brothe
 bro-william-branham-sermon-library/
 ├── output/                         # 1,206 individual sermon JSON files
 │   ├── 47-0412 Faith Is the Substance.json
-│   ├── 47-0414 Death.json
+│   ├── 65-1212 Communion.json
 │   └── ... (one file per sermon)
 ├── scripts/
 │   ├── convert_sermons.py          # PDF → individual JSON converter
@@ -30,7 +30,7 @@ bro-william-branham-sermon-library/
 └── README.md
 ```
 
-> **Combined file:** The single master `branham_sermons.json` (~150–200 MB) is too large for GitHub. Download it from the [**Releases**](https://github.com/philipatosam/bro-william-branham-sermon-library/releases) page.
+> **Combined file:** The single master `bro_branham_sermons.json` (~150–200 MB) is too large for GitHub. Download it from the [**Releases**](https://github.com/philipatosam/bro-william-branham-sermon-library/releases) page.
 
 ---
 
@@ -61,12 +61,12 @@ bro-william-branham-sermon-library/
 }
 ```
 
-### Combined master file (`branham_sermons.json`)
+### Combined master file (`bro_branham_sermons.json`)
 
 ```json
 {
-  "name": "William Marrion Branham Sermons",
-  "description": "Complete sermon library — 1,206 messages by William Marrion Branham.",
+  "name": "Brother William Marrion Branham Sermons",
+  "description": "Complete sermon library — 1,206 messages by Brother William Marrion Branham.",
   "total": 1206,
   "sermons": [
     { "id": "47-0412", "title": "...", "meta": {...}, "paragraphs": [...] },
@@ -164,4 +164,4 @@ Commercial use is not permitted. This project exists solely to promote the Gospe
 
 ---
 
-*"Go ye into all the world and preach the Gospel to every creature." — Mark 16:15*
+*"[5] Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD: [6] And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse." — Malachi 4:5-6 KJV*
